@@ -1,3 +1,6 @@
+*{
+    font-family: monospace;
+}
 p{
     font-size: 64px;
     color:purple;
@@ -11,7 +14,7 @@ h1, h2{
 p{
     color: purple;
 }
-p span{
+.highlight{
     text-transform:uppercase ;
     background-color:gold ;
 }
