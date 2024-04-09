@@ -15,7 +15,7 @@
 /*ID in CSS*/
 /* IDs are unique identifiers within an HTML document. They help you target and style specific elements without affecting others.*/
 
-/*Styles applied with IDs override those applied with classes or elements. This means IDs are useful for giving priority to certain styles.*/
+/*Styles applied with IDs override those applied with classes or elements. This means IDs are useful for giving priority to certain styles*/
 
 /* Browsers can quickly locate elements by ID, making CSS rules using IDs faster to apply.*/
 
