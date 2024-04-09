@@ -1,26 +1,29 @@
-*{
-    font-family: monospace;
-}
+
 p{
     font-size: 64px;
     color:purple;
 }
 body{
     font-size: 22px;
+    
 }
 h1, h2{
     color: blue;
 }
+.gray{
+    color: gray;
+} 
 p{
     color: purple;
+}
+p{
+    color: red;
 }
 .highlight{
     text-transform:uppercase ;
     background-color:gold ;
 }
-.gray{
-    color: gray;
-}
+
 #second{
     font-style: italic;
 }
